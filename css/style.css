@@ -1,0 +1,61 @@
+h1{
+  margin-top:30px;
+  background-color:black;
+  color:white;
+  font-size:50px;
+  font-weight:bold;
+  font-family:Sans;
+  border-radius:10px;   
+}
+
+#wikiSymbol{
+  margin-top:50px;
+background-color:white;
+font-size:100px;
+border :solid;
+}
+
+a:link {
+    color: black; 
+    font-size:30px;
+  font-family:lobster;   
+}
+  
+
+#input{
+  margin-top:10px;
+  border:solid;
+  
+}
+#random{
+  margin-top:30px;
+  background-color:gray;
+  border:solid;
+}
+footer{
+  background-color:black;
+  color:white;
+  border-radius:5px;
+  text-align:center;  
+  margin-top:10px;
+  
+}
+body{
+  background-color:#e6e6e6;  
+}
+li{
+  background-color:gray;
+  border-radius:5px;
+  border:solid;
+  border-color:black;  
+  padding-left:10px;
+  color:white;
+  font-family:times-roman;
+  margin-top:20px;
+}
+.jumbotron{
+  background-color:#e6e6e6;
+}
+#output{
+  text-align:left;
+}
